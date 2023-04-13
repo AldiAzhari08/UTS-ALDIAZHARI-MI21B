@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "name": "Haisyam",
+      "school": "SMKN 1 Bungursari",
+      "prodi": "Manajemen Informatika",
+      "id": 1
+    },
+    [
+      {
+        "name": "Haisyam",
+        "school": "SMKN 1 Bungursari",
+        "prodi": "Manajemen Informatika",
+        "id": 1
+      }
+    ],
+    [
+      {
+        "name": "Aldi",
+        "pesanan": "Bakso",
+        "jumlah": "2",
+        "harga": "10000",
+        "id": 1
+      }
+    ]
+  ]
+}
